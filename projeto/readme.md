@@ -15,7 +15,7 @@
 
 </p>
 
-<h1 align="center"> sumário </h1>
+# sumário 
 
 - [objetivos](#id01)
 - [descrição detalhada](#id01.01)
@@ -25,7 +25,7 @@
 - [deploy e implatação](#id06.01)
 - [autoria](#id07)
 
-<br />
+
 
 # objetivos <a name="id01"></a>
 
@@ -43,17 +43,11 @@
 
 # tecnologias utilizadas <a name="id04"></a>
 
-<br />
-
-- [tecnologia ou badges da stack]
-- [tecnologia ou badges da stack]
-- [tecnologia ou badges da stack]
-
-<br />
+- [badges da stack]
+- [badges da stack]
+- [badges da stack]
 
 # ambiente de codificação <a name="id05"></a>
-
-<br />
 
 <div  align='center'> 
 
@@ -63,11 +57,8 @@
 ![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)
 </div>
 
-<br />
 
 # clonagem e instalação <a name="id06"></a>
-
-<br />
 
 Clone este repositório usando o comando:
 
@@ -95,22 +86,17 @@ ou
 yarn start
 ```
 
-<br />
+
 
 [comment]: <> (Adicione o link da implatação, se houver)
-
-# <a href=""> deploy e implatação </a> <a name="id06.01"></a>
-
-
-<br />
 
 # autoria <a name="id07"></a>
 
 [comment]: <> (Adicione seu nome e função)
 
-<h3 align='center'> Jônatas Quirino • Desenvolvedor Front-end
+<h3 align='center'> @ojonatasquirino • desenvolvedor front-end
  </h3>
- 
+
 #
 
 [comment]: <> (Adicione as suas redes sociais e profissionais)
