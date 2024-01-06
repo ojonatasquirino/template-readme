@@ -43,9 +43,12 @@
 
 # tecnologias utilizadas <a name="id04"></a>
 
-- [badges da stack]
-- [badges da stack]
-- [badges da stack]
+<div  align='center'> 
+
+ [badges da stack]
+ [badges da stack]
+ [badges da stack]
+</div>
 
 # ambiente de codificação <a name="id05"></a>
 
