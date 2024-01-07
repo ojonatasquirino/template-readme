@@ -20,6 +20,7 @@
 - [objetivos](#id01)
 - [descrição detalhada](#id01.01)
 - [tecnologias de estudos](#id04)
+- - [documentação e cursos](#id04.01)
 - [ambiente de codificação](#id05)
 - [clonagem e instalação](#id06)
 - [autoria](#id07)
@@ -46,6 +47,15 @@
  [badges da stack]
  [badges da stack]
  [badges da stack]
+</div>
+
+# documnetação e cursos <a name="id04.01"></a>
+
+<div  align='center'> 
+
+ [badges do curso/doc]
+ [badges do curso/doc]
+ [badges do curso/doc]
 </div>
 
 # ambiente de codificação <a name="id05"></a>
