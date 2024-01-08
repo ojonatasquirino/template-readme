@@ -94,8 +94,9 @@ yarn start
 ```
 
 
+# deploy e implatação  <a name="id06.01"></a>
 
-[comment]: <> (Adicione o link da implatação, se houver)
+[comment]: <> (Adicione o link da implatação)
 
 # responsividade  <a name="id06.02"></a>
 
