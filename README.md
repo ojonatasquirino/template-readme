@@ -15,6 +15,12 @@
 
 </p>
 
+<div align="center">
+
+### <a href ='/projeto'> para projeto  </a> • <a href ='/estudo'> para estudo </a>
+
+</div>
+
 # sumário 
 
 - [objetivos](#id01)
@@ -22,7 +28,6 @@
 - [tecnologias utilizadas/linguagens](#id04)
 - [ambiente de codificação](#id05)
 - [clonagem e instalação](#id06)
-- [deploy e implatação](#id06.01)
 - [autoria](#id07)
 
 
