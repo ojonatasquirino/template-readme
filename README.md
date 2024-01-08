@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### <a href ='/projeto'> para projeto  </a> • <a href ='/estudo'> para estudo </a>
+### <a href ='/projeto/readme.md'> para projeto  </a> • <a href ='/estudo/estudo.md'> para estudo </a>
 
 </div>
 
