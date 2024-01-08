@@ -47,6 +47,9 @@
  [badges da stack]
  [badges da stack]
  [badges da stack]
+ 
+[comment]: <> (link para adicionar badges: https://dev.to/envoy_/150-badges-for-github-pnk)
+
 </div>
 
 # documnetação e cursos <a name="id04.01"></a>

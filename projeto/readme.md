@@ -48,6 +48,9 @@
  [badges da stack]
  [badges da stack]
  [badges da stack]
+
+[comment]: <> (link para adicionar badges: https://dev.to/envoy_/150-badges-for-github-pnk) 
+
 </div>
 
 # ambiente de codificação <a name="id05"></a>
