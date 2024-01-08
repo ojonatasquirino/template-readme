@@ -52,7 +52,7 @@
 
 </div>
 
-# documnetação e cursos <a name="id04.01"></a>
+# documentação e cursos <a name="id04.01"></a>
 
 <div  align='center'> 
 
