@@ -46,7 +46,7 @@ Este repositório contém um arquivo em formato Markdown que oferece uma estrutu
 
 
 
-# tecnologias/linguagens utilizadas <a name="id04"></a>
+# ferramenta/linguagem utilizada <a name="id04"></a>
 
 <div  align='center'> 
   
