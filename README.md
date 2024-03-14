@@ -71,7 +71,7 @@ Clone este repositório usando o comando:
 git clone https://github.com/ojonatasquirino/template-readme.git
 ```
 
-Instale na pasta do projeto as dependências com uso do npm ou yarn:
+Havedno dependências, instale na pasta do seu projeto o npm ou yarn:
 
 ```bash
 npm install
