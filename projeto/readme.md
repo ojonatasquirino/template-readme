@@ -1,4 +1,4 @@
-<h1 align="center"> [nome do projeto]</h1>
+<h1 align="center"> nome do projeto </h1>
 
 [comment]: <> (Adicione o seu usuário  e o nome do repositório)
 
@@ -30,27 +30,26 @@
 
 # objetivos <a name="id01"></a>
 
+<div  align='center'> 
+  
+objetivos de aprendizado ou explicar os problemas que essa aplicação resolve.
 
-[objetivo do projeto]
-
+</div>
 
 
 # descrição detalhada <a name="id01.01"></a>
 
-
-[descrição mais detalhada do projeto]
-
+<div  align='center'> 
+  descrição mais detalhada dos objetos e finalidades do software em construção (ou construído).
+</div>
 
 
 # tecnologias utilizadas <a name="id04"></a>
 
 <div  align='center'> 
 
- [badges da stack]
- [badges da stack]
- [badges da stack]
+ <a href='https://dev.to/envoy_/150-badges-for-github-pnk'>  link para adicionar badges </a> 
 
-[comment]: <> (link para adicionar badges: https://dev.to/envoy_/150-badges-for-github-pnk) 
 
 </div>
 
@@ -70,29 +69,15 @@
 Clone este repositório usando o comando:
 
 ```bash
-git clone [link do repositório remoto]
+git clone https://github.com/usuario/repositorio.git
 ```
 
 Instale na pasta do projeto as dependências com uso do npm ou yarn:
 
 ```bash
-npm install
-
-ou
-
-yarn install
+adicione aqui os prcocessos adicionais e dependências 
 ```
-
-Inicie o projeto com:
-
-```bash
-npm start
-
-ou
-
-yarn start
-```
-
+[comment]: <> (Adicione o link da implatação, se houver)
 
 # deploy e implatação  <a name="id06.01"></a>
 
@@ -121,18 +106,14 @@ yarn start
 
 #
 
-[comment]: <> (Adicione as suas redes sociais e profissionais)
-
 <div  align='center'>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jonatasquirino/)
 <a href = "mailto:quirinoj02@gmail.com">
 ![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)](https://twitter.com/ojonatasquirino)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=fff)](https://twitter.com/ojonatasquirino)
 
-[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=orange)](https://bit.ly/linkquirino)
+[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=fff)](https://bit.ly/linkquirino)
 [![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino)
 [![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
 </div>
-
-
