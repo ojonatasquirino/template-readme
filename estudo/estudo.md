@@ -30,14 +30,16 @@
 # objetivos <a name="id01"></a>
 
 
-[objetivo do estudo]
+<div  align='center'> 
+  descrição mais detalhada dos objetivos os e finalidades do projeto.
+</div>
 
 
 
 # descrição detalhada <a name="id01.01"></a>
 
 <div  align='center'> 
-  descrição mais detalhada dos objetos e finalidades do estudo.
+  descrição mais detalhada dos objetivos e finalidades do estudo.
 
 </div>
 
