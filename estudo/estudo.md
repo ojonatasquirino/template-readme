@@ -19,11 +19,11 @@
 
 - [objetivos](#id01)
 - [descrição detalhada](#id01.01)
-- [tecnologias de estudos](#id04)
-- - [documentação e cursos](#id04.01)
-- [ambiente de codificação](#id05)
-- [clonagem e instalação](#id06)
-- [autoria](#id07)
+- [tecnologias de estudos](#id02)
+- - [documentação e cursos](#id03)
+- [ambiente de codificação](#id04)
+- [clonagem e instalação](#id05)
+- [autoria](#id06)
 
 
 
@@ -44,7 +44,7 @@
 </div>
 
 
-# tecnologias de estudo <a name="id04"></a>
+# tecnologias de estudo <a name="id02"></a>
 
 <div  align='center'> 
 
@@ -55,7 +55,7 @@
 
 </div>
 
-# documentação e cursos <a name="id04.01"></a>
+# documentação e cursos <a name="id03"></a>
 
 <div  align='center'> 
 
@@ -65,7 +65,7 @@
 
 </div>
 
-# ambiente de codificação <a name="id05"></a>
+# ambiente de codificação <a name="id04"></a>
 
 <div  align='center'> 
 
@@ -76,7 +76,7 @@
 </div>
 
 
-# clonagem e instalação <a name="id06"></a>
+# clonagem e instalação <a name="id05"></a>
 
 Clone este repositório usando o comando:
 
@@ -91,7 +91,7 @@ adicione aqui os prcocessos adicionais e dependências
 ```
 [comment]: <> (Adicione o link da implatação, se houver)
 
-# autoria <a name="id07"></a>
+# autoria <a name="id06"></a>
 
 [comment]: <> (Adicione seu nome e função)
 
@@ -101,15 +101,11 @@ adicione aqui os prcocessos adicionais e dependências
 #
 
 <div  align='center'>
-
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jonatasquirino/)
 <a href = "mailto:quirinoj02@gmail.com">
 ![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=fff)](https://twitter.com/ojonatasquirino)
-
-[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=fff)](https://bit.ly/linkquirino)
-[![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino)
-[![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
+[![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino) [![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
 </div>
 
 
