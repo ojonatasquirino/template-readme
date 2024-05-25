@@ -19,11 +19,11 @@
 
 - [objetivos](#id01)
 - [descrição detalhada](#id01.01)
-- [tecnologias utilizadas](#id04)
-- [ambiente de codificação](#id05)
-- [clonagem e instalação](#id06)
-- [deploy e implatação](#id06.01)
-- [responsividade](#id06.02)
+- [tecnologias utilizadas](#id02)
+- [ambiente de codificação](#id03)
+- [clonagem e instalação](#id04)
+- [deploy e implatação](#id05)
+- [responsividade](#id06)
 - [autoria](#id07)
 
 
@@ -44,7 +44,7 @@ objetivos de aprendizado ou explicar os problemas que essa aplicação resolve.
 </div>
 
 
-# tecnologias utilizadas <a name="id04"></a>
+# tecnologias utilizadas <a name="id02"></a>
 
 <div  align='center'> 
 
@@ -53,7 +53,7 @@ objetivos de aprendizado ou explicar os problemas que essa aplicação resolve.
 
 </div>
 
-# ambiente de codificação <a name="id05"></a>
+# ambiente de codificação <a name="id03"></a>
 
 <div  align='center'> 
 
@@ -64,7 +64,7 @@ objetivos de aprendizado ou explicar os problemas que essa aplicação resolve.
 </div>
 
 
-# clonagem e instalação <a name="id06"></a>
+# clonagem e instalação <a name="id04"></a>
 
 Clone este repositório usando o comando:
 
@@ -79,11 +79,11 @@ adicione aqui os prcocessos adicionais e dependências
 ```
 [comment]: <> (Adicione o link da implatação, se houver)
 
-# deploy e implatação  <a name="id06.01"></a>
+# deploy e implatação  <a name="id05"></a>
 
 [comment]: <> (Adicione o link da implatação)
 
-# responsividade  <a name="id06.02"></a>
+# responsividade  <a name="id06"></a>
 
 ## mobile 
 
@@ -111,9 +111,5 @@ adicione aqui os prcocessos adicionais e dependências
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jonatasquirino/)
 <a href = "mailto:quirinoj02@gmail.com">
 ![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=fff)](https://twitter.com/ojonatasquirino)
-
-[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=fff)](https://bit.ly/linkquirino)
-[![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino)
-[![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
+[![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino) [![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
 </div>
