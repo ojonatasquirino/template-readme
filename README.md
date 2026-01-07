@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### <a href ='/projeto/readme.md'> para projeto  </a> • <a href ='/estudo/estudo.md'> para estudo </a>  •  <a href ='/minimo/minimo.md'> mínimo </a>
+### <a href ='/projeto/readme.md'> para projeto  </a> • <a href ='/estudo/estudo.md'> para estudo </a>  •  <a href ='/minimo/minimo.md'> minimalista </a>
 
 
 </div>
